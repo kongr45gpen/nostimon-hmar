@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'GFS Neohellenic';
+    src: url('./GFSNeohellenic.ttf');
+}
+
+@font-face {
+    font-family: 'GFS Neohellenic';
+    font-weight: bold;
+    src: url('./GFSNeohellenicBold.ttf');
+}
