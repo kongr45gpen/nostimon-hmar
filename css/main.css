@@ -425,10 +425,26 @@ main > * {
 }
 
 @media (max-width: 767px) {
+    .participants .students {
+        font-size: 80%
+        text-align: left !important;
+        hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+    }
+
+    .participants .students p {
+        font-size: 80% !important;
+    }
+
+    .participant {
+        white-space: normal !important;
+    }
+
     .access .map {
-        align-self: stretch;
+        align-self: center;
         min-height: 300px;
-        min-width: 300px;
+        min-width: 250px;
     }
 
     .info {
@@ -553,8 +569,8 @@ main > * {
     white-space: nowrap;
 }
 
-.narration {
-    text-align: center !important;
+.participants .students .narration {
+    text-align: center;
 }
 
 .fa {
