@@ -1,0 +1,20 @@
+{
+  "name": "nostimon-hmar",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kongr45gpen/nostimon-hmar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kongr45gpen/nostimon-hmar/issues"
+  },
+  "homepage": "https://github.com/kongr45gpen/nostimon-hmar",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.5.1"
+  }
+}
